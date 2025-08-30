@@ -135,7 +135,7 @@ Test Login: 11244298 / 60-dayfreetrial
 ### 👥 **Development Team**
 
 | **Developer** | **GitHub** |
-|---------------|----------|------------|
+|---------------|------------|
 | **Kerim Šikalo** | [@KerimSikalo](https://github.com/KerimSikalo) |
 | **Azra Kovač** | - |
 | **Faris Aljić** | - |
